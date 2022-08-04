@@ -1,0 +1,13 @@
+Exchange:
+
+Exchange ID:
+MEP:
+Properties:
+Exceptions:
+
+In Message
+Header
+Attachments
+Body
+
+Out Message
