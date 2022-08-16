@@ -1,0 +1,7 @@
+org\secondcamel\model\User.class
+org\secondcamel\MySpringBean.class
+org\secondcamel\MySpringBootRouter.class
+org\secondcamel\model\Users.class
+org\secondcamel\MySpringBootApplication.class
+org\secondcamel\processor\ProcessRequestGetUsers.class
+org\secondcamel\processor\ProcessRequestPostUsers.class

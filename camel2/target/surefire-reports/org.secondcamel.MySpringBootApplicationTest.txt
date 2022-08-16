@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.secondcamel.MySpringBootApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.437 s <<< FAILURE! - in org.secondcamel.MySpringBootApplicationTest
+org.secondcamel.MySpringBootApplicationTest.test  Time elapsed: 1.058 s  <<< ERROR!
+org.apache.camel.FailedToStartRouteException: Failed to start route route2 because of Multiple consumers for the same endpoint is not allowed: direct://processGetUser
+
